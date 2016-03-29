@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  FaceView.h
 //  UIBezierPath
 //
 //  Created by WKY on 16/3/29.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface FaceView : UIView
 
 @end
-
